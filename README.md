@@ -57,7 +57,7 @@ The winner of the election based on popular vote
 ## Summary of Election Audit 
 ###  Election Results: canadidate won , total votes and percentage
 This code can be used for any election to get   result of canadidate won , total votes and percentage.
-and  list of candidates , their number of votes  and percentage . In addition ,Largest  turnout for each county.
+and also  list of counties , their number of votes  and percentage . In addition ,Largest county  turnout .
 
 - Diana DeGette won the election, with a total votes of 272,892
 - Diana DeGette has the total percentage votes of 73.8%
