@@ -25,7 +25,7 @@ Total number of votes each candidate received
 Percentage of votes each candidate won
 The winner of the election based on popular vote
 
-
+### Votes were cast in this congressional election
 - Total Votes Cast in this congressional election was 369,711
 ###  Each county and its total vote count are saved in the election_results.txt file.
 - Jefferson county has 10.5% total percentage with a total votes of 38,855
@@ -44,8 +44,15 @@ The winner of the election based on popular vote
 ### Code of Candidate
 ![This is an image](https://github.com/NadaAdem/Election_Analysis/blob/main/Resources/Code_candidate.png )
 
+### Candidate won the election,  vote count, and  percentage of the total votes
+- Diana DeGette won the election, with a total votes of 272,892
+- Diana DeGette has the total percentage votes of 73.8%
+- Diana DeGette is the Winner!
+
 ## Summary of Election Audit 
 ###  Election Results: canadidate won , total votes and percentage
+This code can be used for any election to get   result of canadidate won , total votes and percentage.
+and  list of candidates , their number of votes  and percentage . In addition ,Largest  turnout for each county.
 
 - Diana DeGette won the election, with a total votes of 272,892
 - Diana DeGette has the total percentage votes of 73.8%
