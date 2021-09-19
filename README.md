@@ -1,6 +1,7 @@
 # Election Analysis
 ## Overview of Election Audit 
-### Purpose 
+### Purpose of Election Audit 
+
 A Colorado Board of Elections employee has given you the following task to complete the election audit of a recent local congressional election.
 
 - Calculate the total number of votes cast.
@@ -11,7 +12,7 @@ A Colorado Board of Elections employee has given you the following task to compl
 
 
 ## Results of Election Audit 
-### Result
+### There is a bulleted list where each election outcome 
 In this project, our final Python script will need to be able to deliver the following information when the script is run: 
 
 Total number of votes cast
