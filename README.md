@@ -12,7 +12,8 @@ A Colorado Board of Elections employee has given you the following task to compl
 
 
 ## Results of Election Audit 
-### There is a bulleted list where each election outcome 
+### There is a bulleted list where each election outcome
+
 In this project, our final Python script will need to be able to deliver the following information when the script is run: 
 
 Total number of votes cast
@@ -41,7 +42,8 @@ The winner of the election based on popular vote
 ![This is an image](https://github.com/NadaAdem/Election_Analysis/blob/main/Resources/Code_candidate.png )
 
 ## Summary of Election Audit 
-###  Election Results: canadidate won , total votes and percentage .
+###  Election Results: canadidate won , total votes and percentage
+
 - Diana DeGette won the election, with a total votes of 272,892
 - Diana DeGette has the total percentage votes of 73.8%
 - Diana DeGette is the Winner!
