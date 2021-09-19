@@ -29,7 +29,7 @@ The winner of the election based on popular vote
 - Denver county has the 82.8% total percentage with a total votes of 306,055
 - Arapahoe county has 6.7% total percentage with a total votes of 24,801
 ###  The county with the largest number of voters is saved in the election_results.tx file
--Largest Country Turnout :Denver 
+- Largest Country Turnout :Denver 
 ### Code of Country 
 ![This is an image](https://github.com/NadaAdem/Election_Analysis/blob/main/Resources/Code_country.png)
 ### Output of Code
