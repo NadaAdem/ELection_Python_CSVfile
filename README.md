@@ -2,7 +2,7 @@
 ## Overview of Election Audit 
 ### Purpose of Election Audit 
 
-A Colorado Board of Elections employee has given you the following task to complete the election audit of a recent local congressional election.
+A Colorado Board of Elections employee has given you the following task to complete the election audit of a recent local congressional election by using  Python.
 
 - Calculate the total number of votes cast.
 - Get a complete list of candidates who received votes.
@@ -12,6 +12,11 @@ A Colorado Board of Elections employee has given you the following task to compl
 - The voter turnout for each county.
 - The percentage of votes from each county out of the total count.
 - The county with the highest turnout.
+
+## Resource
+- Data Source: election_results.csv
+- Software: Python 3.7 , Visual Studio Code 1.50.0
+ 
 
 
 ## Results of Election Audit 
